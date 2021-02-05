@@ -1,5 +1,5 @@
-.idea
+#.idea
 #db.sqlite3
 #geekshop/vk.json
-# __pycache__/
+__pycache__/
 tmp/

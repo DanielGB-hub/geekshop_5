@@ -148,7 +148,7 @@ AUTH_USER_MODEL = 'authapp.ShopUser'
 LOGIN_URL = '/auth/login/'
 LOGIN_ERROR_URL = '/'
 
-DOMAIN_NAME = 'http://127.0.0.3:8000'
+DOMAIN_NAME = 'http://127.0.0.1:8000'
 
 EMAIL_HOST = 'localhost'
 EMAIL_PORT = '25'
